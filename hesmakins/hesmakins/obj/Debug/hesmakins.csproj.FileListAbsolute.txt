@@ -1,0 +1,11 @@
+C:\Users\anily\OneDrive\Masaüstü\C#\hesmakins\hesmakins\bin\Debug\hesmakins.exe.config
+C:\Users\anily\OneDrive\Masaüstü\C#\hesmakins\hesmakins\bin\Debug\hesmakins.exe
+C:\Users\anily\OneDrive\Masaüstü\C#\hesmakins\hesmakins\bin\Debug\hesmakins.pdb
+C:\Users\anily\OneDrive\Masaüstü\C#\hesmakins\hesmakins\obj\Debug\hesmakins.csproj.AssemblyReference.cache
+C:\Users\anily\OneDrive\Masaüstü\C#\hesmakins\hesmakins\obj\Debug\hesmakins.csproj.SuggestedBindingRedirects.cache
+C:\Users\anily\OneDrive\Masaüstü\C#\hesmakins\hesmakins\obj\Debug\hesmakins.Form1.resources
+C:\Users\anily\OneDrive\Masaüstü\C#\hesmakins\hesmakins\obj\Debug\hesmakins.Properties.Resources.resources
+C:\Users\anily\OneDrive\Masaüstü\C#\hesmakins\hesmakins\obj\Debug\hesmakins.csproj.GenerateResource.cache
+C:\Users\anily\OneDrive\Masaüstü\C#\hesmakins\hesmakins\obj\Debug\hesmakins.csproj.CoreCompileInputs.cache
+C:\Users\anily\OneDrive\Masaüstü\C#\hesmakins\hesmakins\obj\Debug\hesmakins.exe
+C:\Users\anily\OneDrive\Masaüstü\C#\hesmakins\hesmakins\obj\Debug\hesmakins.pdb
